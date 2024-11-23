@@ -1,0 +1,35 @@
+html, body {
+    height: 100%;
+  }
+body{
+    background: linear-gradient(#FFA5A5, #FDC5C5);
+}
+h1{
+    color: #333333;
+}
+span, label {
+    color: #666666;
+}
+main{
+    background-color: #ffffff;
+}
+.name,
+.email,
+.family,
+.name_company {
+    background-color: #F5F5F5;
+}
+.reg {
+    background-color: #089FE0;
+    color: white;
+}
+.ya {
+    color: aquamarine;
+}
+.bot{
+    display: inline-block;
+}
+button{
+    background-color: #089FE0;
+    color: #FFFFFF;
+}
