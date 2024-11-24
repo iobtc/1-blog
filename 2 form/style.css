@@ -11,23 +11,10 @@ span, label {
     color: #666666;
 }
 main{
-    background-color: #ffffff;
+    background-color: #FFFEFE;
 }
-.name,
-.email,
-.family,
-.name_company {
-    background-color: #F5F5F5;
-}
-.reg {
-    background-color: #089FE0;
-    color: white;
-}
-.ya {
-    color: aquamarine;
-}
-.bot{
-    display: inline-block;
+input {
+    background: #F5F5F5;
 }
 button{
     background-color: #089FE0;
