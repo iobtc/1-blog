@@ -1,0 +1,126 @@
+body {
+    background: linear-gradient(#374151, #111827);
+    margin: 0px;
+}
+.b{
+    font-size: 18px;
+    font-family Source Sans Pro;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #4B5563;
+    border-radius: 3px;
+    margin-right: 11px;
+    margin-left: 180px;
+
+}
+nav{
+    margin: 78px 0 0 0;
+    
+}
+ul{
+    margin: 0px;
+    
+}
+header a{
+    color: #FAFAFA;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+
+}
+.avaAuthor{
+    margin: 0px 586px 0 640px ;
+}
+.img{
+    padding-left: 272px;
+    padding-right: 272px;
+}
+h1{
+    color: #FAFAFA;
+    font-size: 36px;
+    margin: 0px;
+    font-family: Roboto;
+    margin-bottom: 30px;
+}
+input, select, textarea {
+    background-color: #2E2D3D;
+    color: #FAFAFA;
+    font-family: Roboto;
+}
+.search{
+    border-radius: 100px;
+    width: 224px;
+    height: 40px;
+    border: 0px;
+    background-color: #1F293799;
+    padding: 0px;
+}
+.search::placeholder{
+    padding-top: 9px;
+    padding-bottom: 12px;
+    padding-left: 49px;
+    padding-right: 128px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: Roboto;
+    list-style-image: url(/1form/search.png);
+    background: url('/1form/search.png') no-repeat 18px center;
+}
+.author{
+    font-family: Roboto;
+    color: #FAFAFA;
+    margin-top: 180px;
+    margin-bottom: 18px;
+}
+.authorSpec{
+    color: #cccccc;
+    margin: 16px 0 28px 0;
+}
+.authorLogo{
+    color: #FAFAFA;
+    font-size: 20px;
+    padding-left: 25px;
+
+}
+.pOne{
+    color: #FFFFFF;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    margin-top: 69px;
+    padding-left: 367px;
+    padding-right: 365px;
+    margin-bottom: 50px;
+}
+.pTwo{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin: 0px;
+    padding-left: 367px;
+    padding-right: 365px;
+
+}
+.linkFooter{
+    color: #FFFFFF;
+}
+.copyright{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #cccccc;
+    padding-left: 608px;
+    padding-right: 606px;
+    margin: 103px 0 77px 0;
+}
+/* .search::placeholder{
+    content: url(/search.svg);
+} */
+ ul{
+    list-style: none;
+ }
